@@ -1,0 +1,2 @@
+rootProject.name = "Uso de menu en Kotlin"
+include ':app'
