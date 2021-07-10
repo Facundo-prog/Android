@@ -8,7 +8,7 @@
         android:label="Uso de menu en Kotlin"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.UsoDeMenuEnKotlin">
+        android:theme="@style/Theme.Menu_example_Kotlin">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
